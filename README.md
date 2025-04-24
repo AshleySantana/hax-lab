@@ -9,6 +9,7 @@ The commits here also help associate github user names to past contributors
 - [Skyler Koba](https://github.com/SkylerKoba88) - Start Journey Screen - Spring 2025
 - [Isabella Masso](https://github.com/izzabizz5) - Start Journey Screen - Spring 2025
 - [Winston White](https://github.com/winstonwumbo) - Polaris Themes, Flex Map Menu - Fall 2024
+- [Ashley Santana](https://github.com/AshleySantana) - Use Case Picker - Fall 2024
 - [Kai Huang](https://github.com/klh6157) - Auditing DDD Usage, QA Elements in Monorepo - Fall 2024
 - [Zach Dodson](https://github.com/zdodson21) - AI Chat Agent - Summer 2024
 - [Keith Charlton](https://github.com/kchar601) - DDD Creation - Spring 2024
